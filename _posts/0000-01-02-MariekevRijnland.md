@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello,
+Teamwork makes the dream work,
 Use the left arrow to go back!
